@@ -1,0 +1,18 @@
+It is a very easy game which imitates real football
+
+
+To move the ball, click on the screen
+within 2X2 square
+around its current position
+
+
+If you hit the wall or place,
+where the ball was already,
+you are obliged to make another move.
+Otherwise, its another players move
+
+
+To win, insert the ball in yours opponent goal.
+
+
+If you cannot make a move, you lose.

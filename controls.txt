@@ -1,0 +1,9 @@
+During game:
+ESC - back to main menu (no saving game!)
+M - mute music
+P - increase volume
+L - decrease volume
+
+In menu:
+Backspace - back to previous menu
+Up, Down, Enter - obviously
